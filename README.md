@@ -37,5 +37,5 @@ Pour exécuter EcoTrivia localement et contribuer au projet, suivez ces étapes 
 
 ## Autres langues / Other languages
 
-- [README in English](README-en.md)
+- [README in english](README-en.md)
 
