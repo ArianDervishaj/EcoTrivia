@@ -1,8 +1,5 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ArianDervishaj/EcoTrivia.svg)](https://github.com/ArianDervishaj/EcoTrivia/commits/master)
-[![GitHub release](https://img.shields.io/github/release/ArianDervishaj/EcoTrivia.svg)](https://github.com/ArianDervishaj/EcoTrivia/releases)
-
-
 
 # EcoTrivia - Jeu de Quiz sur le Changement Climatique
 
