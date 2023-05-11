@@ -34,3 +34,8 @@ Pour exécuter EcoTrivia localement et contribuer au projet, suivez ces étapes 
 7. Démarrez le serveur de développement pour le backend : `python manage.py runserver`
 8. Démarrez le serveur de développement pour le frontend : `cd frontend` puis `npm start`
 9. Accédez à l'application dans votre navigateur à l'adresse `http://localhost:3000`.
+
+## Language Versions
+
+- [English](README-en.md)
+
