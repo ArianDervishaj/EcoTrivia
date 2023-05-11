@@ -35,6 +35,6 @@ To run EcoTrivia locally and contribute to the project, follow these steps:
 8. Start the development server for the frontend: `cd frontend` then `npm start`
 9. Access the application in your browser at `http://localhost:3000`.
 
-## Language Versions
+## Autres langues / Other languages
 
-- [Français](README.md)
+- [README en français](README.md)
