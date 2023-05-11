@@ -17,7 +17,6 @@ EcoTrivia est une application interactive de quiz et de questions-réponses con�
 - Backend : Django (Python)
 - Frontend : React (JavaScript)
 - Base de données : MongoDB
-- Déploiement : Infomaniak
 
 ## Prise en Main
 
