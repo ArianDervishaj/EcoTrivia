@@ -1,5 +1,5 @@
 https://github.com/ArianDervishaj/EcoTrivia/commits/master
-
+https://opensource.org/licenses/MIT
 
 # EcoTrivia - Jeu de Quiz sur le Changement Climatique
 
