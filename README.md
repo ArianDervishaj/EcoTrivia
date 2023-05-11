@@ -8,7 +8,7 @@ EcoTrivia est une application interactive de quiz et de questions-réponses con�
 
 - **Catégories et Niveaux de Difficulté** : Explorez différentes catégories et choisissez parmi différents niveaux de difficulté pour adapter le jeu à votre expertise et à vos objectifs d'apprentissage.
 
-- **Classement** : Défiez d'autres joueurs et grimpez en haut du classement en répondant correctement et rapidement aux questions.
+- **Classement** : Grimpez en haut du classement en répondant correctement et rapidement aux questions.
 
 - **Informations Éducatives** : Obtenez des explications détaillées pour chaque question, vous permettant d'approfondir votre compréhension des sujets liés au changement climatique et à l'environnement.
 
